@@ -137,7 +137,7 @@
             label = _props.label,
             draggable = _props.draggable,
             title = _props.title,
-            animation = _props.animation;
+            animation = _props.animation,
             optimized = _props.optimized,
             zIndex = _props.zIndex;
 
@@ -157,7 +157,7 @@
           label: label,
           title: title,
           draggable: draggable,
-          animation: animation
+          animation: animation,
           optimized: optimized,
           zIndex: zIndex
         };
